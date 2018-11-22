@@ -1,3 +1,5 @@
+# add a correct connection string in `application.yml`
+
 ## add this procedure first
 
 ```sql
